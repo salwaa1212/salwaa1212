@@ -1,6 +1,6 @@
 ### Hi I'm Salwa 👋
 
-<p align="center", text-width="bold">Hi I'm Salwa 👋</p>
+<p align="center"><strong>Hi I'm Salwa 👋</strong></p>
 
 ---
 
