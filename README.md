@@ -10,17 +10,20 @@ I am a Beginner Student interested in Data Analysis and Machine Learning.
 <a href="https://www.linkedin.com/in/salwamadihah/" rel="nofollow">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/salwamadihah/" height="30" width="40" style="max-width: 100%;">
 </a>
-<!--
-**salwaa1212/salwaa1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Language and Tools
+<a href="https://code.visualstudio.com/" rel="nofollow">
+  <img src="https://uxwing.com/wp-content/themes/uxwing/downlo…ands-and-social-media/visual-studio-code-icon.png" alt="vsc" width="40" height="40" style="max-width: 100%;"> 
+</a>
+<a href="https://www.oracle.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;"> 
+</a>
+<a href="https://www.oracle.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;"> 
+</a>
+<a href="https://www.oracle.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;"> 
+</a>
+<a href="https://www.oracle.com/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" style="max-width: 100%;"> 
+</a>
