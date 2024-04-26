@@ -1,6 +1,6 @@
 ### Hi I'm Salwa 👋
 
-<p align="center">Ini adalah paragraf teks yang diatur di tengah.</p>
+<p align="center", text-width="bold">Hi I'm Salwa 👋</p>
 
 ---
 
