@@ -4,7 +4,7 @@
 <p align="center">nice to meet you all!👋</p>
 
 ---
-🌱 Currently I'm deepening my learning knowledge in the field of Machine Learning by participating in the Bangkit Academy 2024 program.
+🌱 Currently I'm deepening my learning knowledge in the field of Machine Learning by participating in the Bangkit Academy 2024.
 
 🏗️ On this page, you will find my learning process projects on Data Analysis, Data Visualization and Machine Learning.
 
