@@ -16,5 +16,5 @@
 
 🏗️ On this page, you will find my learning process projects on Data Analysis, Data Visualization and Machine Learning.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salwaa1212&show_icons=true&locale=en&layout=compact" alt="salwaa1212" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=salwaa1212&show_icons=true&locale=en" alt="salwaa1212" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salwaa1212&layout=compact&langs_count=8&theme=omni" alt="salwaa1212"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=salwaa1212&show_icons=true&count_private=true&include_all_commits=true&theme=omni" alt="salwaa1212"/>
